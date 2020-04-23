@@ -1,6 +1,8 @@
-# Github Explorer
 
-### Salve seus repositórios favoritos e tenha suas issues de rápida!
+
+# <img src = "./src/assets/logo.svg">
+
+### Salve seus repositórios favoritos e tenha suas issues de maneira rápida!
 
 
 ## Tela Inicial
