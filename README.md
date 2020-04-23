@@ -1,6 +1,6 @@
 # Github Explorer
 
-### Salve seus repositórios favoritos e tenha suas issues de rápida!
+### Salve seus repositórios favoritos e tenha suas issues de maneira rápida!
 
 
 ## Tela Inicial
