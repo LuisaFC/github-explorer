@@ -2,8 +2,6 @@
 
 # <img src = "./src/assets/logo.svg">
 
-## Github Explorer
-
 ### Salve seus repositórios favoritos e tenha suas issues de maneira rápida!
 
 
